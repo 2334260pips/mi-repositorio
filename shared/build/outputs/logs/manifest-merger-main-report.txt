@@ -1,0 +1,13 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\elchu\AndroidStudioProjects\myapplication\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest2012943076119990589.xml:2:13-83
+INJECTED from C:\Users\elchu\AndroidStudioProjects\myapplication\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest2012943076119990589.xml:2:13-83
+	package
+		INJECTED from C:\Users\elchu\AndroidStudioProjects\myapplication\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest2012943076119990589.xml
+	xmlns:android
+		ADDED from C:\Users\elchu\AndroidStudioProjects\myapplication\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest2012943076119990589.xml:2:23-81
+uses-sdk
+INJECTED from C:\Users\elchu\AndroidStudioProjects\myapplication\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest2012943076119990589.xml reason: use-sdk injection requested
+INJECTED from C:\Users\elchu\AndroidStudioProjects\myapplication\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest2012943076119990589.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\elchu\AndroidStudioProjects\myapplication\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest2012943076119990589.xml
